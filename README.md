@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src ="https://www.pexels.com/photo/black-laptop-beside-black-computer-mouse-inside-room-669996">
+<img src ="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 <h1 align="center">Hi 👋, I'm Olindu Oshda Peris</h1>
 <h3 align="center">I'm Student At IJSE From Sri Lanka</h3>
 
