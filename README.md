@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src ="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
+<img src ="https://wallpapercave.com/w/wp5132019">
 <h1 align="center">Hi 👋, I'm Olindu Oshda Peris</h1>
 <h3 align="center">I'm Student At IJSE From Sri Lanka</h3>
 
